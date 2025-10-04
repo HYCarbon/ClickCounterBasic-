@@ -1,75 +1,73 @@
 # ClickCounter
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-2.0+-blue?logo=kotlin)](https://kotlinlang.org)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2.0+-pink?logo=android)](https://developer.android.com/jetpack/compose)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[[Kotlin](https://img.shields.io/badge/Kotlin-2.0+-blue?logo=kotlin)](https://kotlinlang.org)
+[[Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2.0+-pink?logo=android)](https://developer.android.com/jetpack/compose)
+[[License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
-## 🌟 项目简介
+## 🌟 專案簡介
 
-ClickCounter 是一个简洁而功能完备的计数器应用，灵感来源于敲木鱼手表游戏。它将简单的点击动作转化为带有仪式感的计数体验。作为 Jetpack Compose 初学者的实践项目，它展示了现代 Android 开发的最佳实践。
+ClickCounter 是一個簡潔而功能完備的計數器應用，靈感來自於敲木魚手錶遊戲。它將簡單的點擊動作轉化為帶有儀式感的計數體驗。作為 Jetpack Compose 初學者的實踐專案，它展示了現代 Android 開發的最佳實務。
 
 ---
 
 ## ✨ 主要功能
 
-* **点击计数** - 轻点按钮增加计数，简单直观
-* **数据持久化** - 使用 DataStore 技术，确保计数在应用重启后依然保留
-* **现代化 UI** - 采用 Jetpack Compose 构建，界面简洁美观
-* **响应式设计** - 适配不同屏幕尺寸的设备
+* **點擊計數** - 輕觸按鈕增加計數，簡單直覺
+* **資料持久化** - 使用 DataStore 技術，確保計數在應用程式重新啟動後依然保留
+* **現代化 UI** - 採用 Jetpack Compose 建構，介面簡潔美觀
+* **回應式設計** - 適應不同螢幕尺寸的裝置
 
 ---
 
-## 🚀 快速开始
+## 🚀 快速開始
 
-### 环境要求
+### 環境需求
 * Android Studio
-* Android SDK API 级别 24 或更高
+* Android SDK API 級別 24 或更高
 * Kotlin 2.0+
 * Gradle 8.8+
 
-### 安装步骤
+### 安裝步驟
 
-1. 克隆项目：
+1. 複製專案：
    ```bash
    git clone https://github.com/NWMA-FYWF/ClickCounter.git
    ```
 
-2. 在 Android Studio 中打开项目：
-   - 启动 Android Studio
-   - 选择 "Open an existing project"
-   - 导航到项目文件夹并选择
+2. 在 Android Studio 中開啟專案：
+   - 啟動 Android Studio
+   - 選擇 "Open an existing project"
+   - 導覽至專案資料夾並選擇
 
-3. 同步 Gradle 依赖：
-   - 点击 "Sync Now" 或在 Terminal 中运行 `./gradlew build`
+3. 同步 Gradle 相依性：
+   - 點選 "Sync Now" 或在 Terminal 中執行 `./gradlew build`
 
-4. 运行应用：
-   - 连接 Android 设备或启动模拟器
-   - 点击 "Run" 按钮或按 Shift+F10
-
----
-
-## 📱 使用说明
-
-1. 启动应用后，你会看到当前计数显示在屏幕上
-2. 点击 "Click here" 按钮增加计数
-3. 计数会自动保存，即使关闭应用后重启也不会丢失
-4. 数据通过 Android 的 DataStore 技术持久化存储
+4. 執行應用程式：
+   - 連接 Android 裝置或啟動模擬器
+   - 點選 "Run" 按鈕或按下 Shift+F10
 
 ---
 
-## 🔧 技术栈
+## 📱 使用說明
 
-* **Kotlin** - 现代 Android 开发语言
-* **Jetpack Compose** - 现代 UI 框架
-* **DataStore** - 数据持久化存储解决方案
-* **Material Design 3** - 设计语言和组件库
+1. 啟動應用程式後，您會看到目前計數顯示在螢幕上
+2. 點選 "Click here" 按鈕以增加計數
+3. 計數會自動儲存，即使關閉應用程式後重新啟動也不會遺失
+4. 資料透過 Android 的 DataStore 技術進行持久化儲存
+
+---
+
+## 🔧 技術堆疊
+
+* **Kotlin** - 現代 Android 開發語言
+* **Jetpack Compose** - 現代 UI 框架
+* **DataStore** - 資料持久化儲存解決方案
+* **Material Design 3** - 設計語言與元件庫
 
 ---
 
 ## 📄 License
 
-MIT License - 随意使用、修改、分发（但请保留原作者信息）🙏
-
-
+MIT License - 可自由使用、修改、散佈（但請保留原作者資訊）🙏

@@ -1,65 +1,90 @@
-**ClickCounterBasic 软件最终用户许可协议（EULA）**  
-**版本 1.0**  
-**生效日期：2025年10月4日**  
+ClickCounterBasic End User License Agreement (EULA)  
+Version 1.0  
+Effective Date: October 4, 2025
 
----
+1. Parties to the Agreement  
+This agreement is entered into between the software owner ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧 (“Licensor”) and you, the individual or entity installing, accessing, or using the ClickCounterBasic software (“Software”), (“You” or “Licensee”).
 
-### **1. 协议主体**  
-本协议由软件所有者 **ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧**（以下简称“许可方”）与安装、使用或访问 **ClickCounterBasic**（以下简称“本软件”）的用户（以下简称“您”或“被许可方”）共同订立。  
+2. Grant of License  
+2.1 Licensor grants You a non-exclusive, non-transferable, non-sublicensable, limited right to install and run the compiled binary version (APK file) of the Software on a single Android device for personal, non-commercial use.  
+2.2 You shall not:  
+(a) Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software;  
+(b) Modify, adapt, translate, or create derivative works based on the Software;  
+(c) Distribute, rent, lease, lend, resell, or otherwise transfer the Software;  
+(d) Use the Software for any commercial purpose (including, but not limited to, embedding it into other products or services).
 
----
+3. Ownership and Intellectual Property  
+3.1 All rights, title, and interest in and to the Software—including but not limited to its code, design, trademarks, documentation, and updates—are and shall remain the exclusive property of ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧.  
+3.2 All rights not expressly granted herein are reserved by the Licensor.
 
-### **2. 授权范围**  
-2.1 许可方授予您一项**非独占、不可转让、不可再许可、有限**的使用权，允许您在**单台Android设备**上安装并运行本软件的已编译二进制版本（APK文件）。  
-2.2 您**不得**：  
-- (a) 对本软件进行反向工程、反编译、反汇编或试图提取源代码；  
-- (b) 修改、改编、翻译或创建衍生作品；  
-- (c) 分发、出租、租赁、出借、转售或以其他方式转让本软件；  
-- (d) 将本软件用于商业目的（包括但不限于嵌入其他产品或服务）。  
+4. Proprietary (Closed-Source) Nature  
+4.1 The Software is proprietary and closed-source. The Licensor does not provide source code and has no obligation to disclose any technical details, algorithms, or internal implementation.  
+4.2 You acknowledge and agree that the Software’s internal logic, structure, and functionality constitute the Licensor’s trade secrets.
 
----
+5. Disclaimer of Warranties  
+5.1 THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.  
+5.2 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF DATA, PROFITS, OR BUSINESS INTERRUPTION) ARISING FROM YOUR USE OF OR INABILITY TO USE THE SOFTWARE.
 
-### **3. 所有权与知识产权**  
-3.1 本软件（包括所有代码、设计、商标、文档及更新）的所有权、版权及其他知识产权** exclusively 归 ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧 所有**。  
-3.2 本协议未明确授予的权利均**保留给许可方**。  
+6. Termination  
+6.1 Licensor may terminate this license immediately, without notice, if You breach any term of this Agreement.  
+6.2 Upon termination, You must immediately uninstall the Software and destroy all copies in your possession or control.
 
----
+7. General Provisions  
+7.1 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the People’s Republic of China, without regard to its conflict of law principles.  
+7.2 Amendments: Licensor reserves the right to modify this Agreement at any time. Updated versions will be made available within the Software or on the official website (if any).  
+7.3 Entire Agreement: This document constitutes the entire agreement between the parties concerning the Software and supersedes all prior or contemporaneous understandings.
 
-### **4. 闭源性质**  
-4.1 本软件为**闭源专有软件**，许可方**不提供源代码**，且无义务公开任何技术细节。  
-4.2 您承认并同意：本软件的内部逻辑、算法及实现方式属于许可方的商业秘密。  
+8. Contact Information  
+For questions regarding this Agreement, please contact the Licensor:  
+ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧  
+Email: HY_Carbon@outlook.com 
+IMPORTANT NOTICE:  
+By installing or using the Software, You acknowledge that You have read, understood, and agree to be bound by all terms of this Agreement.  
+If You do not agree to these terms, do not install or use the Software and delete it immediately.
 
----
+© 2025 ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧. All rights reserved.
+ClickCounterBasic 软件最终用户许可协议（EULA）  
+版本 1.0  
+生效日期：2025年10月4日
 
-### **5. 免责声明**  
-5.1 本软件按“**现状**”（AS IS）提供，许可方**不提供任何明示或暗示的担保**，包括但不限于适销性、特定用途适用性或无侵权担保。  
-5.2 在法律允许的最大范围内，许可方**不对任何直接、间接、附带或后果性损害**（包括数据丢失、利润损失或业务中断）承担责任。  
+1. 协议主体  
+本协议由软件所有者 ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧（以下简称“许可方”）与安装、使用或访问 ClickCounterBasic（以下简称“本软件”）的用户（以下简称“您”或“被许可方”）共同订立。
 
----
+2. 授权范围  
+2.1 许可方授予您一项非独占、不可转让、不可再许可、有限的使用权，允许您在单台 Android 设备上安装并运行本软件的已编译二进制版本（APK 文件），仅限个人、非商业用途。  
+2.2 您不得：  
+(a) 对本软件进行反向工程、反编译、反汇编或试图提取源代码；  
+(b) 修改、改编、翻译或创建衍生作品；  
+(c) 分发、出租、租赁、出借、转售或以其他方式转让本软件；  
+(d) 将本软件用于任何商业目的（包括但不限于嵌入其他产品或服务）。
 
-### **6. 终止条款**  
-6.1 若您违反本协议任何条款，许可方有权**立即终止本授权**，且无需事先通知。  
-6.2 终止后，您必须**立即卸载本软件并销毁所有副本**。  
+3. 所有权与知识产权  
+3.1 本软件（包括所有代码、设计、商标、文档及更新）的所有权、版权及其他知识产权 exclusively 归 ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧 所有。  
+3.2 本协议未明确授予的权利均保留给许可方。
 
----
+4. 闭源性质  
+4.1 本软件为闭源专有软件，许可方不提供源代码，且无义务公开任何技术细节、算法或内部实现方式。  
+4.2 您承认并同意：本软件的内部逻辑、结构及功能属于许可方的商业秘密。
 
-### **7. 一般条款**  
-7.1 **管辖法律**：本协议受中华人民共和国法律管辖，排除冲突法原则。  
-7.2 **协议修改**：许可方保留随时更新本协议的权利，更新后版本将在软件内或官方网站（如有）公示。  
-7.3 **完整协议**：本协议构成双方就本软件达成的完整约定，取代所有 prior 协议。  
+5. 免责声明  
+5.1 本软件按“现状”（AS IS）提供，许可方不提供任何明示或暗示的担保，包括但不限于适销性、特定用途适用性或不侵权担保。  
+5.2 在适用法律允许的最大范围内，许可方不对因您使用或无法使用本软件所引起的任何直接、间接、附带、特殊、后果性或惩戒性损害（包括但不限于数据丢失、利润损失或业务中断）承担责任。
 
----
+6. 终止条款  
+6.1 若您违反本协议任何条款，许可方有权立即终止本授权，且无需事先通知。  
+6.2 终止后，您必须立即卸载本软件并销毁您所持有或控制的所有副本。
 
-### **8. 联系方式**  
+7. 一般条款  
+7.1 管辖法律：本协议受中华人民共和国法律管辖，并据其解释，排除冲突法原则。  
+7.2 协议修改：许可方保留随时修改本协议的权利。更新后的版本将在软件内或官方网站（如有）公布。  
+7.3 完整协议：本协议构成双方就本软件达成的完整约定，取代所有先前或同期的口头或书面约定。
+
+8. 联系方式  
 如对本协议有疑问，请联系许可方：  
-**ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧**  
-邮箱：HY_Carbon@outlook.com
+ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧  
+邮箱：HY_Carbon@outlook.com 
+重要提示：  
+安装或使用本软件即表示您已阅读、理解并同意受本协议全部条款约束。  
+若您不同意本协议，请勿安装或使用本软件，并立即删除。
 
----
-
-**重要提示**：  
-**安装或使用本软件即表示您已阅读、理解并同意受本协议全部条款约束。**  
-**若您不同意本协议，请立即停止安装并删除本软件。**  
-
----  
-**© 2025 ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧. 保留所有权利。**
+© 2025 ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧. 保留所有权利。

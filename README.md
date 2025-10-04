@@ -1,4 +1,4 @@
-# ClickCounter
+# ClickCounterBasic
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0+-blue?logo=kotlin)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2.0+-pink?logo=android)](https://developer.android.com/jetpack/compose)
@@ -8,7 +8,7 @@
 
 ## 🌟 專案簡介
 
-ClickCounter 是一個簡潔而功能完備的計數器應用，靈感來自於敲木魚手錶遊戲。它將簡單的點擊動作轉化為帶有儀式感的計數體驗。作為 Jetpack Compose 初學者的實踐專案，它展示了現代 Android 開發的最佳實務。
+ClickCounterBasic是一個簡潔而功能完備的計數器應用，靈感來自於敲木魚手錶遊戲。它將簡單的點擊動作轉化為帶有儀式感的計數體驗。作為 Jetpack Compose 初學者的實踐專案，它展示了現代 Android 開發的最佳實務。
 
 ---
 

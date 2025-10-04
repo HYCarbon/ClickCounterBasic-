@@ -1,8 +1,8 @@
 # ClickCounter
 
-[[Kotlin](https://img.shields.io/badge/Kotlin-2.0+-blue?logo=kotlin)](https://kotlinlang.org)
-[[Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2.0+-pink?logo=android)](https://developer.android.com/jetpack/compose)
-[[License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0+-blue?logo=kotlin)](https://kotlinlang.org)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2.0+-pink?logo=android)](https://developer.android.com/jetpack/compose)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 

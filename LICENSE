@@ -1,9 +1,65 @@
-The MIT License (MIT)
+**ClickCounterBasic 软件最终用户许可协议（EULA）**  
+**版本 1.0**  
+**生效日期：2025年10月4日**  
 
-Copyright © 2025 NWMA_FYWF, https://github.com/NWMA-FYWF 
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### **1. 协议主体**  
+本协议由软件所有者 **ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧**（以下简称“许可方”）与安装、使用或访问 **ClickCounterBasic**（以下简称“本软件”）的用户（以下简称“您”或“被许可方”）共同订立。  
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+### **2. 授权范围**  
+2.1 许可方授予您一项**非独占、不可转让、不可再许可、有限**的使用权，允许您在**单台Android设备**上安装并运行本软件的已编译二进制版本（APK文件）。  
+2.2 您**不得**：  
+- (a) 对本软件进行反向工程、反编译、反汇编或试图提取源代码；  
+- (b) 修改、改编、翻译或创建衍生作品；  
+- (c) 分发、出租、租赁、出借、转售或以其他方式转让本软件；  
+- (d) 将本软件用于商业目的（包括但不限于嵌入其他产品或服务）。  
+
+---
+
+### **3. 所有权与知识产权**  
+3.1 本软件（包括所有代码、设计、商标、文档及更新）的所有权、版权及其他知识产权** exclusively 归 ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧 所有**。  
+3.2 本协议未明确授予的权利均**保留给许可方**。  
+
+---
+
+### **4. 闭源性质**  
+4.1 本软件为**闭源专有软件**，许可方**不提供源代码**，且无义务公开任何技术细节。  
+4.2 您承认并同意：本软件的内部逻辑、算法及实现方式属于许可方的商业秘密。  
+
+---
+
+### **5. 免责声明**  
+5.1 本软件按“**现状**”（AS IS）提供，许可方**不提供任何明示或暗示的担保**，包括但不限于适销性、特定用途适用性或无侵权担保。  
+5.2 在法律允许的最大范围内，许可方**不对任何直接、间接、附带或后果性损害**（包括数据丢失、利润损失或业务中断）承担责任。  
+
+---
+
+### **6. 终止条款**  
+6.1 若您违反本协议任何条款，许可方有权**立即终止本授权**，且无需事先通知。  
+6.2 终止后，您必须**立即卸载本软件并销毁所有副本**。  
+
+---
+
+### **7. 一般条款**  
+7.1 **管辖法律**：本协议受中华人民共和国法律管辖，排除冲突法原则。  
+7.2 **协议修改**：许可方保留随时更新本协议的权利，更新后版本将在软件内或官方网站（如有）公示。  
+7.3 **完整协议**：本协议构成双方就本软件达成的完整约定，取代所有 prior 协议。  
+
+---
+
+### **8. 联系方式**  
+如对本协议有疑问，请联系许可方：  
+**ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧**  
+邮箱：HY_Carbon@outlook.com
+
+---
+
+**重要提示**：  
+**安装或使用本软件即表示您已阅读、理解并同意受本协议全部条款约束。**  
+**若您不同意本协议，请立即停止安装并删除本软件。**  
+
+---  
+**© 2025 ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧. 保留所有权利。**
